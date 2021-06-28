@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 I am a fullstack web developper from France
-- 🔭 Good basis in HTML, SCSS, Javascript, PHP, MYSQL
+- 🔭 Good skills in HTML, SCSS, JAVASCRIPT, PHP, MYSQL
 - 🌱 Always want to improve, Focusing my skills into Javascript, React and Nodejs at the moment.
 
 ## Connect with me
