@@ -2,7 +2,8 @@
 
 I am a fullstack web developper from France
 - 🔭 Good skills in HTML, SCSS, JAVASCRIPT, PHP, MYSQL
-- 🌱 Always want to improve, Focusing my skills into Javascript, React and Nodejs at the moment.
+- 🌱 Focusing my skills into Javascript, React and Nodejs at the moment.
+- :skier: Always want to improve, and curious about others langages and frameworks.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandre-connangle-6221a558/)
