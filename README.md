@@ -2,7 +2,7 @@
 
 I am a fullstack web developper from France, Nantes (44).
 - 🔭 Main competences in HTML, SCSS, JAVASCRIPT, PHP, MYSQL
-- 🌱 Focusing my skills into Javascript, React and Nodejs at the moment.
+- 🌱 Focusing my skills into Javascript, React and Nodejs.
 - :skier: Always want to improve, and curious about others langages and frameworks.
 
 ## Connect with me
