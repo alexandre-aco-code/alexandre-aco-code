@@ -1,8 +1,8 @@
 ### Hello World 👋
 
-I am a fullstack web developper from France, Nantes (44).
-- 🔭 Main competences in HTML, SCSS, JAVASCRIPT, PHP, MYSQL, React & Nodejs.
-- 🌱 Focusing my skills at the moment into Java & Python.
+I am a Engineer half Developper / half IVQ (tests and automatisation of tests) from France, Nantes (44).
+- 🔭 Main competences in Python 3 and HTML, SCSS, JAVASCRIPT, PHP, MYSQL, React & Nodejs.
+- 🌱 Focusing my skills at the moment into Python 3.8.
 - :skier: Always want to improve, and curious about others langages and frameworks.
 
 ## Connect with me
