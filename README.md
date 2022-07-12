@@ -11,4 +11,4 @@ I am a Engineer half Developper / half IVQ (tests and automatisation of tests) f
 <br>
 
 ## Expertise
-<img align="left" alt="python" src="https://davidmercier.fr/teaching/M1207/TP/images/python3.png" />
+<img align="left" alt="python" width="100" src="https://davidmercier.fr/teaching/M1207/TP/images/python3.png" />
