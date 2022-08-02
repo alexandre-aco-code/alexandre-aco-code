@@ -2,4 +2,4 @@
 
 50% Developper / 50% Tests and automatisation from Nantes, France.
 
-Main competences in Python3
+Main competences in Python3, testing tools, and web developpment formation
